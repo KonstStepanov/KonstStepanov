@@ -1,12 +1,12 @@
 Привет! 👋 
-Я Константин Степанов, java разработчик.
+Я Константин Степанов, Java разработчик.
 
 ## Что я умею
 - [Поисковый движок для работы с PDF файлами](https://github.com/KonstStepanov/SearchEngine)
 - [Менеджер личных финансов](https://github.com/KonstStepanov/FinanceManager)
 - [Конвертер в текстовую графику](https://github.com/KonstStepanov/ImageConverter)
 - [Анализатор данных жителей города](https://github.com/KonstStepanov/DataAnalyzer)
-- [Spring MVC. Магазин продажи тако](https://github.com/KonstStepanov/SpringMVC)
+- [Spring. Магазин продажи тако](https://github.com/KonstStepanov/SpringMVC)
 
 ## Сертификаты
 - [Java](https://github.com/KonstStepanov/Certificates/blob/main/java.pdf)
