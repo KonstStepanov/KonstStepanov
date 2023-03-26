@@ -10,6 +10,7 @@
 
 ## Сертификаты
 - [Java](https://github.com/KonstStepanov/Certificates/blob/main/java.pdf)
+- [Spring](https://github.com/KonstStepanov/Certificates/blob/main/Spring.pdf) 
 - [PostgreSQL](https://github.com/KonstStepanov/Certificates/blob/main/PostgreSQL.pdf)
 
 ## Контакты
